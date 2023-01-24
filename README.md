@@ -9,3 +9,4 @@
 * ### 1 right: 100111111
 
 ![](map.png)
+![](labyrinth.png)
